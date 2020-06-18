@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Anja Kuchenbecker and I'm Data Science, Machine Learning and Smart Home addicted :) Loving Python as well as Web Coding (HTML, CSS, JavaScript). When I'm not doing nerd stuff? #braap!
+Hi, my name is Anja Kuchenbecker and I'm Data Science, Machine Learning and Smart Home addicted :) 
+Loving Python as well as Web Coding (HTML, CSS, JavaScript). 
+When I'm not doing nerd stuff? #braap!
 
+### Location
+:house_with_garden: Germany
 
 ### Contact me
 
