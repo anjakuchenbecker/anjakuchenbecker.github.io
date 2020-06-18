@@ -11,6 +11,6 @@ When I'm not doing nerd stuff? #braap!
 ### :house_with_garden: Location
 Germany
 
-### Contact me
+### :email: Contact me
 
 [email@domain.com](mailto:email@domain.com)
