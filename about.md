@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, my name is Anja Kuchenbecker and I'm Data Science, Machine Learning and Smart Home addicted :) Loving Python as well as Web Coding (HTML, CSS, JavaScript). When I'm not doing nerd stuff? #braap!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
