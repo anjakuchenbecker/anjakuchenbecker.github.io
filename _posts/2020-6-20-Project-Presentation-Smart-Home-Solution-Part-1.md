@@ -10,7 +10,7 @@ Because images says more than a thousand words let's start with screenshots.
 
 ## Dashboard - Camera
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_1.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_1.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_2.png)
 
 # Platform
 TBD
