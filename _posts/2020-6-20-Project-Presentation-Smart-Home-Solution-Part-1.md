@@ -7,6 +7,7 @@ I want to start my blog with the presentation of my self made Smart Home Solutio
 
 # Screenshots
 Because images says more than a thousand words let's start with screenshots. 
+Please note that I have blackened the parts containing the sensitive information and pictures from my cameras.
 
 ## Dashboard - Camera
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_1.png)
