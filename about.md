@@ -6,7 +6,7 @@ permalink: /about/
 
 ![_config.yml]({{ site.baseurl }}/images/Foto_Anja_s.jpg)
 
-Hi, my name is Anja Kuchenbecker and I'm Data Science, Machine Learning and Smart Home addicted :) 
+Hi, my name is Anja Kuchenbecker and I'm addicted to Data Science, Machine Learning and Smart Home :) 
 Loving Python as well as Web Coding (HTML, CSS, JavaScript). 
 
 When I'm not doing nerd stuff? #braap!
