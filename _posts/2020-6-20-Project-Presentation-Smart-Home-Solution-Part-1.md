@@ -57,6 +57,7 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_11.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_12.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_13.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_14.png)
 
 Key Features
 - TBD
