@@ -47,7 +47,7 @@ Key Features
 - Responsive web application based on PHP, HTML, CSS, JavaScript, jQuery, Foundation
 ## Backend
 - http-API based on Python which integrates the differend hardware devices (apache, wsgi, flask)
-- no database in case of data must be stored simple json repos are used
+- no database in case of data must be stored simple json files are used
 - Backend services based on Python
 - Backend cron jobs based on Python
 
