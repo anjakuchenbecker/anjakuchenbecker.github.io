@@ -68,4 +68,6 @@ Key Features
 - Onkyo Receiver TX-5081
 - Dreambox DM520 Satellite Receiver
 - AppleTV (AppleTV 1, AppleTV 4)
-- ELV Mobile Alerts Gateway with Temperature and Humidity
+- ELV Mobile Alerts Gateway with attached temperature and humidity sensors (radio based)
+- Eqiva Bluetooth Smart Radiator Thermostat
+- Bluetooth Low Energy Beacon
