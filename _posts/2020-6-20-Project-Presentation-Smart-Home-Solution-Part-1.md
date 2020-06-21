@@ -62,6 +62,21 @@ Key Features
 Key Features
 - TBD
 
+## Dashboard - Climate
+
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_15.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_16.png)
+
+Key Features
+- TBD
+
+## Dashboard - SONOS
+
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_17.png)
+
+Key Features
+- TBD
+
 # Platform
 ## Front End
 - Responsive web application based on PHP, HTML, CSS, JavaScript, jQuery, Foundation
