@@ -12,7 +12,7 @@ I've started with the installation of some WLAN IP cameras at my home but was ve
 
 That was the time when I started to develop my own web based application which runs in an usual browser regardless of the operating system. And since I'm heavily interested in Machine Learning the first goal was also to combine my low end WLAN cameras with a object detection model that is able to detect persons on pictures. I'm not interested in getting informed when the neighboors cats cross my cameras view. 
 
-My friend was the "end customer" and "tester" to ensure that the application is easy to handle. Little by little I've integrated more and more of devices that runs at my home. All stuff is controlled in one web app, no need to open any additional native vendor application.
+My boy friend was the "end customer" and "tester" to ensure that the application is easy to handle. Little by little I've integrated more and more devices that are running at home. All stuff is controlled in one web app, no need to open any additional native vendor application.
 
 # Screenshots
 Because images says more than a thousand words let's start with screenshots. 
