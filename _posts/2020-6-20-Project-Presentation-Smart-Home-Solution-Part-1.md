@@ -24,14 +24,14 @@ Key Features
 - Based on the selected camera scene also the radiators are switched accordingly in the background
 - Upcoming garbage collection appointments are displayed. You receive also an e-mail reminder the day before.
 
-## Dashboard - Alarm
+## Dashboard - Alarm System
 
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_3.png)
 
 Key Features
 - Activate or deactivate your GSM alarm system
 
-## Dashboard - Smart plugs
+## Dashboard - Smart Plugs
 
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_4.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_5.png)
@@ -41,6 +41,23 @@ Key Features
 - Turn smart plugs on or off
 - Set smart plug timer with related action (if supported by smart plug)
 
+## Dashboard - Mower
+
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_6.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_7.png)
+
+Key Features
+- TBD
+
+## Dashboard - Remote Control
+
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_8.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_10.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_11.png)
+
+Key Features
+- TBD
 
 # Platform
 ## Front End
