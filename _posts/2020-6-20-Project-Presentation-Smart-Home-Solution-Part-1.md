@@ -46,16 +46,17 @@ Key Features
 
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_7.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_8.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png)
 
 Key Features
 - TBD
 
 ## Dashboard - Remote Control
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_10.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_11.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_12.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_13.png)
 
 Key Features
 - TBD
