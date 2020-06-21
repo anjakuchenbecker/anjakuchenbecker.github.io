@@ -3,7 +3,7 @@ layout: post
 title: Project presentation | My Smart Home Solution - Part 1
 ---
 
-I want to start my blog with the presentation of my self made Smart Home Solution I'm working in my spare time. In part 1 of this series I'll give you a general overview of my solution.
+I want to start my blog with the presentation of my self-made Smart Home solution I'm working in my spare time. In part 1 of this series I'll give you a general overview of my solution.
 
 # Motivation
 I've started with the installation of some WLAN IP cameras at my home but was very bugged after a short time for two main reasons:
