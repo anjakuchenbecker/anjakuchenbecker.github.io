@@ -46,6 +46,7 @@ Key Features
 ## Front End
 - Responsive web application based on PHP, HTML, CSS, JavaScript, jQuery, Foundation
 - Optimized for different device sizes (Smartphone, Tablets) operating system neutral (iOS or Android)
+
 ## Backend
 - http-API based on Python which integrates the differend hardware devices (apache, wsgi, flask)
 - no database, in case of data must be stored simple json files are used
@@ -53,4 +54,18 @@ Key Features
 - Backend cron jobs based on Python
 
 # Hardware
-TBD
+
+## Server
+- Raspberry Pi 3 Model B+ with 32GB SD Card
+- Remote server on which the object detection model and person detection backend service (based on Python) is deployed
+
+## Devices
+- WLAN IP Cameras (different vendors e.g. D-Link)
+- GSM alarm system
+- Gardena sileno city mower
+- SONOS WLAN Speaker (One and Play:1)
+- WLAN Smart Plugs (TP-Link, Shelly Plug)
+- Onkyo Receiver TX-5081
+- Dreambox DM520 Satellite Receiver
+- AppleTV (AppleTV 1, AppleTV 4)
+- ELV Mobile Alerts Gateway with Temperature and Humidity
