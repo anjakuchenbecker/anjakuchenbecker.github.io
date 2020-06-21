@@ -6,7 +6,7 @@ title: Project presentation | My Smart Home Solution - Part 1
 I want to start my blog with the presentation of my self made Smart Home Solution I'm working in my spare time. In part 1 of this series I'll give you a general overview of my solution.
 
 # Motivation
-I've started with the installation of some WLAN IP Cameras at my home but was very bugged afert a short time for two main reasons:
+I've started with the installation of some WLAN IP cameras at my home but was very bugged after a short time for two main reasons:
 1. The integrated motion detection flooded me with e-mails (with attached camera pictures) the whole day. Most time the reason was the change of the brightness (sun vs shadows or darkness vs headlights coming from cars or bikecycles). Checking such e-mails and delete 99% of them makes no fun.
 2. I've started directly with two differend camera vendors (indoor / outdoor) therefore I had to handle two (buggy and slow) native smartphone apps. On top of that, when leaving or coming home I had to start each app and turn on or off motion detection... in total for seven cameras. Also no fun, time consuming ceremony, believe me.
 
