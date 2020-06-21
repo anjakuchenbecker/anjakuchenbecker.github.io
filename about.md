@@ -20,4 +20,4 @@ Germany
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[anja@anjalytics.com](mailto:anja@anjalytics.com)
