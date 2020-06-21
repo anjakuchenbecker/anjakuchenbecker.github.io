@@ -72,6 +72,13 @@ Key Features
 
 ## Dashboard - SONOS
 
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_17.png)
+
+Key Features
+- TBD
+
+## Dashboard - Key Finder
+
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_18.png)
 
 Key Features
