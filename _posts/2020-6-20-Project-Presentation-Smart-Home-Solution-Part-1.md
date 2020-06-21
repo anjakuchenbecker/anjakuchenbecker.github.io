@@ -9,7 +9,8 @@ I want to start my blog with the presentation of my self made Smart Home Solutio
 I've started with the installation of some WLAN IP Cameras at my home but was very bugged afert a short time for two main reasons:
 1. The integrated motion detection flooded me with e-mails (with attached camera pictures) the whole day. Most time the reason was the change of the brightness (sun vs shadows or darkness vs headlights coming from cars or bikecycles). Checking such e-mails and delete 99% of them makes no fun.
 2. I've started directly with two differend camera vendors (indoor / outdoor) therefore I had to handle two (buggy and slow) native smartphone apps. On top of that, when leaving or coming home I had to start each app and turn on or off motion detection... in total for seven cameras. Also no fun, time consuming ceremony, believe me.
-That was the time when I started to develop my own web based application which runs in an usual browser regardless of the operating system. My friend was the "end customer" and "tester" to ensure that the application is easy to handle.
+
+That was the time when I started to develop my own web based application which runs in an usual browser regardless of the operating system. My friend was the "end customer" and "tester" to ensure that the application is easy to handle. Little by little I've integrated more and more of devices that runs at my home. All stuff is controlled in one web app, no need to open any additional native vendor application.
 
 # Screenshots
 Because images says more than a thousand words let's start with screenshots. 
@@ -97,6 +98,7 @@ Key Features
 - no database, in case of data must be stored simple json files are used
 - Backend services based on Python
 - Backend cron jobs based on Python
+- Integrated logging
 
 # Hardware
 
