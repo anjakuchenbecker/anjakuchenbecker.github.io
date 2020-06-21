@@ -29,15 +29,17 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_3.png)
 
 Key Features
-- TBD
+- Activate or deactivate your GSM alarm system
 
-## Dashboard - Smartplugs
+## Dashboard - Smart plugs
 
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_4.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_5.png)
 
 Key Features
-- TBD
+- Status indicator for each available smart plug
+- Turn smart plus on or of
+- Set also smart plug timer (if supported by smart plug)
 
 
 # Platform
