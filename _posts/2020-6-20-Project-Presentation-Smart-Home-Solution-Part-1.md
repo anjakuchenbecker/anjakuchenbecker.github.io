@@ -14,6 +14,8 @@ That was the time when I've started to develop my own web based application whic
 
 My boy friend was the "end customer" and "tester" to ensure that the application is easy to handle. Little by little I've integrated more and more devices that are running at my home. All stuff is controlled in one web app, no need to open any additional native vendor application.
 
+I'm not yet finished - there are still items on my todo list to enhance the functionality and integrate more devices ;-)
+
 # Screenshots
 Because images says more than a thousand words let's start with screenshots. 
 Please note that I have blackened the parts containing sensitive information and pictures from my cameras.
