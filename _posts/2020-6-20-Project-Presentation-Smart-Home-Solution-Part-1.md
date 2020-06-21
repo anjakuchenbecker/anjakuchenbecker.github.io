@@ -38,8 +38,8 @@ Key Features
 
 Key Features
 - Status indicator for each available smart plug
-- Turn smart plus on or of
-- Set also smart plug timer (if supported by smart plug)
+- Turn smart plugs on or off
+- Set smart plug timer with related action (if supported by smart plug)
 
 
 # Platform
