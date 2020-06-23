@@ -104,7 +104,11 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_17.png)
 
 Key Features
-- TBD
+- SONOS Speaker selector
+- Current volume
+- Current title
+- Volume presets (telco, normal, party)
+- Radio station presets
 
 ## Dashboard - Key Finder
 
