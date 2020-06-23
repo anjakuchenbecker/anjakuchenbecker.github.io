@@ -63,9 +63,27 @@ Key Features
 ## Dashboard - Remote Control
 
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_10.png)
+
+### Onkyo Receiver
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_11.png)
+
+Key Features
+- Turn receiver on or off
+- Volume control (increase / decrease volumne, mute / unmute)
+- Volume presets (background, TV, Movie)
+- Source selection
+- Radio station presets
+
+### Dreambox SAT Receiver
+
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_12.png)
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_13.png)
+
+Key Features
+- TBD
+
+### Apple TV
+
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_14.png)
 
 Key Features
