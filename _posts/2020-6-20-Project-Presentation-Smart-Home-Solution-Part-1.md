@@ -57,7 +57,8 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png)
 
 Key Features
-- TBD
+- Start or stop mower
+- See details and status messages of mower
 
 ## Dashboard - Remote Control
 
