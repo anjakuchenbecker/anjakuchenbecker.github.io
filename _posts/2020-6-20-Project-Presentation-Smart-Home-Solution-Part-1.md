@@ -80,14 +80,16 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_13.png)
 
 Key Features
-- TBD
+- Dreambox specific remote control buttons (on / off, volume, ...)
+- Channel list with integrated search
 
 ### Apple TV
 
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_14.png)
 
 Key Features
-- TBD
+- AppleTV selector
+- AppleTV specific remote control buttons (Home, Menu, OK, ...)
 
 ## Dashboard - Climate
 
