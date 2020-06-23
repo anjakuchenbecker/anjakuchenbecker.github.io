@@ -58,7 +58,7 @@ Key Features
 
 Key Features
 - Start or stop mower
-- See details and status messages of mower
+- See details and status history of mower
 
 ## Dashboard - Remote Control
 
