@@ -112,11 +112,11 @@ Key Features
 
 Key Features
 Ad-hoc search can be triggered to determine
-* distance
+* distance (calculated based on measured power/TxPower and RSSI)
 * temperature
 * battery status
 
-of Beacons nearby
+ofBeacons nearby
 
 # Platform
 ## Front End
