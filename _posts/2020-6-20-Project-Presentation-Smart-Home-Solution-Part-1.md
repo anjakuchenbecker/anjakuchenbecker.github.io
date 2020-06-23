@@ -115,7 +115,7 @@ Key Features
 
 # Platform
 ## Front End
-- Responsive web application based on PHP, HTML, CSS, JavaScript, jQuery, Foundation
+- Responsive web application based on HTML, CSS, JavaScript, jQuery, Foundation
 - Optimized for different device sizes (Smartphone, Tablets) operating system neutral (iOS or Android)
 
 ## Backend
