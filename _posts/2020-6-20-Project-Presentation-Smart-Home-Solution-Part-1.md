@@ -116,7 +116,7 @@ Ad-hoc search can be triggered to determine
 * temperature
 * battery status
 
-ofBeacons nearby
+of Beacons nearby
 
 # Platform
 ## Front End
