@@ -115,6 +115,7 @@ Ad-hoc search can be triggered to determine
 * distance
 * temperature
 * battery status
+
 of Beacons nearby
 
 # Platform
