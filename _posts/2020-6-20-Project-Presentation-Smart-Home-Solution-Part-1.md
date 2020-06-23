@@ -111,10 +111,11 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_18.png)
 
 Key Features
-* Ad-hoc search can be triggered to determine the following information of Beacons nearby
-** distance
-** temperature
-** battery status
+Ad-hoc search can be triggered to determine
+* distance
+* temperature
+* battery status
+of Beacons nearby
 
 # Platform
 ## Front End
