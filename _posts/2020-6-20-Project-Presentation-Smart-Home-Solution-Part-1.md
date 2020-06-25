@@ -119,6 +119,7 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_18.png)
 
 Key Features
+
 Ad-hoc search can be triggered to determine
 * distance (calculated based on measured power/TxPower and RSSI)
 * temperature
