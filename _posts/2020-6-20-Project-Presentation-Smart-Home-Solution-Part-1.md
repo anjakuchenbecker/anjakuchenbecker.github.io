@@ -134,6 +134,10 @@ of Beacons nearby
 
 ## E-mail notifications
 
+### Person detection
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_26.png)
+
+### Upcoming garbage collection
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_25.png)
 
 
