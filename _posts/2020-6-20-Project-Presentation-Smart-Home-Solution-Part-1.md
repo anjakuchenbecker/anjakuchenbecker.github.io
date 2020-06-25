@@ -27,10 +27,10 @@ Please note that I have blackened the parts containing sensitive information and
 
 Key Features
 - Embedded front door camera view, you can request a new snapshot or a ten second live video stream
-- Activate specific camera scene and (depending on the the scene) also object detection (persons only) with one click.
-- In case of a person is detected on a picture you'll receive an e-mail with attached pictures (person is surrounded with a blue box and percentage probability of the model on each person detected in the image)
+- Activate specific camera scene and (depending on the scene) also object detection (persons only) with one click.
+- In case of a person is detected on a picture you will receive an e-mail with attached pictures (person is surrounded with a blue box and percentage probability of the model on each person detected in the image)
 - Based on the selected camera scene also the radiators are switched accordingly in the background
-- Upcoming garbage collection appointments are displayed. You receive also an e-mail reminder the day before.
+- Upcoming garbage collection appointments are displayed. You also receive an e-mail reminder the day before.
 
 ## Dashboard - Alarm System
 
@@ -70,7 +70,7 @@ Key Features
 
 Key Features
 - Turn receiver on or off
-- Volume control (increase / decrease volumne, mute / unmute)
+- Volume control (increase / decrease volume, mute / unmute)
 - Volume presets (background, TV, Movie)
 - Source selection
 - Radio station presets
@@ -111,7 +111,7 @@ Key Features
 - SONOS Speaker selector
 - Current volume
 - Current title (in case of SONOS is in play mode)
-- Volume control (increase / decrease volumne, mute / unmute)
+- Volume control (increase / decrease volume, mute / unmute)
 - Volume presets (telco, normal, party)
 - Radio station presets
 
@@ -134,7 +134,7 @@ of Beacons nearby
 - Optimized for different device sizes (Smartphone, Tablets) operating system neutral (iOS or Android)
 
 ## Backend
-- http-API based on Python which integrates the differend hardware devices (apache, wsgi, flask)
+- http-API based on Python which integrates the different hardware devices (apache, wsgi, flask)
 - no database, in case of data must be stored simple json files are used
 - Backend services based on Python
 - Backend cron jobs based on Python
