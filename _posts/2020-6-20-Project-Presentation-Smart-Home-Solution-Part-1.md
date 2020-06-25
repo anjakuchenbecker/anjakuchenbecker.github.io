@@ -26,8 +26,8 @@ The app is separated in two main parts the dashboard and the room surveillance:
 
 ## Dashboard - Camera
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_1.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_2.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_1.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_2.png){:class="img-posts"}
 
 Key Features
 - Embedded front door camera view, you can request a new snapshot or a ten second live video stream
@@ -38,16 +38,16 @@ Key Features
 
 ## Dashboard - Alarm System
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_3.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_3.png){:class="img-posts"}
 
 Key Features
 - Activate or deactivate your GSM alarm system
 
 ## Dashboard - Smart Plugs
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_4.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_5.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_6.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_4.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_5.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_6.png){:class="img-posts"}
 
 Key Features
 - Status indicator for each available smart plug
@@ -56,9 +56,9 @@ Key Features
 
 ## Dashboard - Mower
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_7.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_8.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_7.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_8.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png){:class="img-posts"}
 
 Key Features
 - Embedded mower camera view, you can request a new snapshot or a ten second live video stream
@@ -67,10 +67,10 @@ Key Features
 
 ## Dashboard - Remote Control
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_10.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_10.png){:class="img-posts"}
 
 ### Onkyo Receiver
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_11.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_11.png){:class="img-posts"}
 
 Key Features
 - Turn receiver on or off
@@ -81,8 +81,8 @@ Key Features
 
 ### Dreambox SAT Receiver
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_12.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_13.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_12.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_13.png){:class="img-posts"}
 
 Key Features
 - Dreambox specific remote control buttons (on / off, volume, ...)
@@ -90,7 +90,7 @@ Key Features
 
 ### Apple TV
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_14.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_14.png){:class="img-posts"}
 
 Key Features
 - AppleTV selector
@@ -98,8 +98,8 @@ Key Features
 
 ## Dashboard - Climate
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_15.png)
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_16.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_15.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_16.png){:class="img-posts"}
 
 Key Features
 - Information about temperature and humidity coming from temperature/humidity sensors
@@ -109,7 +109,7 @@ Key Features
 
 ## Dashboard - SONOS
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_17.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_17.png){:class="img-posts"}
 
 Key Features
 - SONOS Speaker selector
@@ -123,7 +123,7 @@ Key Features
 
 ## Dashboard - Key Finder
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_18.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_18.png){:class="img-posts"}
 
 Key Features
 
@@ -137,10 +137,10 @@ of Beacons nearby
 ## E-mail notifications
 
 ### Person detection
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_26.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_26.png){:class="img-posts"}
 
 ### Upcoming garbage collection
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_25.png)
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_25.png){:class="img-posts"}
 
 
 # Platform
