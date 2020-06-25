@@ -22,7 +22,7 @@ Please note that I have blackened the parts containing sensitive information and
 
 The app is separated in two main parts the dashboard and the room surveillance:
 
-![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_19.png){:class="img-responsive"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_19.png){:class="img-posts"}
 
 ## Dashboard - Camera
 
