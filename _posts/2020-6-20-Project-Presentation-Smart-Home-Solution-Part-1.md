@@ -20,6 +20,8 @@ I'm not yet finished - there are still items on my todo list to enhance the func
 Because images say more than a thousand words let's start with screenshots. 
 Please note that I have blackened the parts containing sensitive information and pictures from my cameras.
 
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_19.png)
+
 ## Dashboard - Camera
 
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_1.png)
@@ -129,6 +131,11 @@ Ad-hoc search can be triggered to determine
 * battery status
 
 of Beacons nearby
+
+## E-mail notifications
+
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_25.png)
+
 
 # Platform
 ## Front End
