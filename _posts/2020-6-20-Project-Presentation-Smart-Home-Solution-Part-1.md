@@ -109,8 +109,10 @@ Key Features
 
 Key Features
 - SONOS Speaker selector
+- Status highlighting
 - Current volume
 - Current title (in case of SONOS is in play mode)
+- Current radio station
 - Volume control (increase / decrease volume, mute / unmute)
 - Volume presets (telco, normal, party)
 - Radio station presets
