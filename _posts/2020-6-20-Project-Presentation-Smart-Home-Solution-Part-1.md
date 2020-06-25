@@ -156,5 +156,5 @@ of Beacons nearby
 - Dreambox DM520 Satellite Receiver
 - AppleTV (AppleTV 1, AppleTV 4)
 - ELV Mobile Alerts Gateway with attached temperature and humidity sensors (radio based)
-- Eqiva Bluetooth Smart Radiator Thermostat
-- Bluetooth Low Energy Beacon
+- Eqiva Bluetooth Smart Radiator Thermostats
+- Bluetooth Low Energy Beacons
