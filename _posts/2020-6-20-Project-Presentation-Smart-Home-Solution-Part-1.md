@@ -26,7 +26,7 @@ Please note that I have blackened the parts containing sensitive information and
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_2.png)
 
 Key Features
-- Embedded front door camera view, you can request a new snapshot or a ten second live video stream)
+- Embedded front door camera view, you can request a new snapshot or a ten second live video stream
 - Activate specific camera scene and (depending on the the scene) also object detection (persons only) with one click.
 - In case of a person is detected on a picture you'll receive an e-mail with attached pictures (person is surrounded with a blue box and percentage probability of the model on each person detected in the image)
 - Based on the selected camera scene also the radiators are switched accordingly in the background
@@ -57,6 +57,7 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png)
 
 Key Features
+- Embedded mower camera view, you can request a new snapshot or a ten second live video stream
 - Start or stop mower
 - See details and status history of mower
 
