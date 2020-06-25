@@ -299,11 +299,18 @@ footer {
 	}
 }
 
-/*iphone 6plus */
+/*iphone 6plus*/
 /* iPhone-Plus Portrait: min-414px max-736px  */
 @media screen and (min-device-width: 414px) {
 	.site-avatar {
-	  width: 400px;
+	  width: 450px;
+	}
+}
+
+/*common screens*/
+@media screen and (min-device-width: 1024px) {
+	.site-avatar {
+	  width: 700px;
 	}
 }
 
