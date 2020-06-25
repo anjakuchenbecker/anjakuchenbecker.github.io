@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![_config.yml]({{ site.baseurl }}/images/Foto_Anja_s.jpg)
+![_config.yml]({{ site.baseurl }}/images/Foto_Anja_s.jpg){:class="img-posts"}
 
 Hi, my name is Anja Kuchenbecker and I'm addicted to Data Science, Machine Learning and Smart Home :) 
 Loving Python as well as Web Coding (HTML, CSS, JavaScript). 
