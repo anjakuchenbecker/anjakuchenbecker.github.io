@@ -97,7 +97,6 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_16.png)
 
 Key Features
-Per room
 - Information about temperature and humidity coming from temperature/humidity sensors
 - Information about current setting and mode coming from radiator thermostats
 - Set temperature for a specific radiator thermostat
