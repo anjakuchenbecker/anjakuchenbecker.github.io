@@ -16,7 +16,7 @@ I want to start my blog with the presentation of my self-made Smart Home solutio
 - [Dashboard - Climate](#dashboard---climate)
 - [Dashboard - SONOS](#dashboard---sonos)
 - [Dashboard - Key Finder](#dashboard---key-finder)
-- [Dashboard - Room Surveillance](#room-surveillance)
+- [Room Surveillance](#room-surveillance)
 - [E-Mail Notifications](#e-mail-notifications)
 - [Platform](#platform)
 - [Hardware](#hardware)
@@ -197,7 +197,7 @@ Whenever there is at least one upcoming garbage collection appointment on the ne
 - Raspberry Pi 3 Model B+ with 32GB SD Card
 - Remote server on which the object detection model and person detection backend service (based on Python) is deployed
 
-## Devices
+## Integrated Devices
 - WLAN IP Cameras (different vendors e.g. D-Link)
 - GSM alarm system
 - Gardena sileno city mower
@@ -211,4 +211,6 @@ Whenever there is at least one upcoming garbage collection appointment on the ne
 - Bluetooth Low Energy Beacons
 
 # Conclusion
-TBD
+This was the first part of my presentation concerning my self-made Smart Home solution. 
+You saw the entire user interface of my web application and you are now aware about the key features.
+Finally, I gave you a brief overview of the underlying platform and which devices are integrated in my solution.
