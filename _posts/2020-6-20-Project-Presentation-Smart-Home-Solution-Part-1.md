@@ -12,8 +12,6 @@ I want to start my blog with the presentation of my self-made Smart Home solutio
 - [Dashboard - Alarm System](#dashboard---alarm-system)
 - [Dashboard - Smart Plugs](#dashboard---smart-plugs)
 - [Dashboard - Mower](#dashboard---mower)
-- [Dashboard - Mower](#dashboard---mower)
-- [Dashboard - Mower](#dashboard---mower)
 - [Dashboard - Remote Control](#dashboard---remote-control)
 - [Dashboard - Climate](#dashboard---climate)
 - [Dashboard - SONOS](#dashboard---sonos)
