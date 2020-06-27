@@ -186,7 +186,7 @@ Whenever there is at least one upcoming garbage collection appointment on the ne
 
 ## Backend
 - http-API based on Python which integrates the different hardware devices (apache, wsgi, flask)
-- no database, in case of data must be stored simple json files are used
+- no database overhead, in case of data must be stored simple json files are used
 - Backend services based on Python
 - Backend cron jobs based on Python
 - Integrated logging
