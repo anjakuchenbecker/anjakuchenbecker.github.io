@@ -20,7 +20,7 @@ I want to start my blog with the presentation of my self-made Smart Home solutio
 - [E-Mail Notifications](#e-mail-notifications)
 - [Platform](#platform)
 - [Hardware](#hardware)
-- [Conculsion](#conclusion)
+- [Conclusion](#conclusion)
 
 # Motivation
 I've started with the installation of some WLAN IP cameras at my home but was very bugged after a short time for two main reasons:
