@@ -32,7 +32,7 @@ The app is separated in two main parts the dashboard and the room surveillance:
 Key Features
 - Embedded front door camera view, you can request a new snapshot or a ten second live video stream
 - Activate specific camera scene and (depending on the scene) also object detection (persons only) with one click.
-- In case of a person is detected on a picture you will receive an e-mail with attached pictures (person is surrounded with a blue box and percentage probability of the model on each person detected in the image)
+- Whenever a person is detected on a picture you will receive an e-mail with attached pictures (person is surrounded with a blue box and percentage probability of the model on each person detected in the image)
 - Based on the selected camera scene also the radiators are switched accordingly in the background
 - Upcoming garbage collection appointments are displayed. You also receive an e-mail reminder the day before.
 
@@ -134,12 +134,29 @@ Ad-hoc search can be triggered to determine
 
 of Beacons nearby
 
+## Room Surveillance
+
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_20.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_21.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_22.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_23.png){:class="img-posts"}
+![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_24.png){:class="img-posts"}
+
+Key Features
+- Embedded views of all cameras (indoor / outdoor)
+
 ## E-mail notifications
 
-### Person detection
+### Person detection notification
+
+Whenever a person is detected on a picture you will receive an e-mail with attached pictures (person is surrounded with a blue box and percentage probability of the model on each person detected in the image):
+
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_26.png){:class="img-posts"}
 
-### Upcoming garbage collection
+### Upcoming garbage collection notification
+
+Whenever there is at least one upcoming garbage collection appointment on the next day, you receive an e-mail reminder the day before at 7:15 pm (one e-mail for multiple upcoming garbage collection appointments):
+
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_25.png){:class="img-posts"}
 
 
