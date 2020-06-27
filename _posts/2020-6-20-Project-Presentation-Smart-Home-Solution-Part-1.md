@@ -5,6 +5,9 @@ title: Project presentation | My Smart Home Solution - Part 1
 
 I want to start my blog with the presentation of my self-made Smart Home solution I'm working in my spare time. In part 1 of this series I'll give you a general overview of my solution.
 
+# Table of contents
+- [Some text](#motivation)
+
 # Motivation
 I've started with the installation of some WLAN IP cameras at my home but was very bugged after a short time for two main reasons:
 1. The integrated motion detection flooded me with e-mails (with attached camera pictures) the whole day. Most time the reason was the change of the brightness (sun vs shadows or darkness vs headlights coming from cars or bicycles). Checking such e-mails and delete 99% of them makes no fun. Also tweaking the camera settings (exclude specific areas from motion detection or reducing the sensitivity) did not lead to the desired result. 
@@ -136,6 +139,8 @@ of Beacons nearby
 
 ## Room Surveillance
 
+Please note that I have blackened pictures from my cameras in the following screenshots.
+
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_20.png){:class="img-posts"}
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_21.png){:class="img-posts"}
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_22.png){:class="img-posts"}
@@ -190,3 +195,6 @@ Whenever there is at least one upcoming garbage collection appointment on the ne
 - ELV Mobile Alerts Gateway with attached temperature and humidity sensors (radio based)
 - Eqiva Bluetooth Smart Radiator Thermostats
 - Bluetooth Low Energy Beacons
+
+# Conclusion
+TBD
