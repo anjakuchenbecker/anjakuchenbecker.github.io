@@ -3,7 +3,7 @@ layout: post
 title: My Smart Home Solution - Part 2 | Integrate EGN rubbish collection dates in your Smart Home Solution 
 ---
 
-One part within my self-made Smart Home solution is the integration of rubbish collection dates from my local responsible provider: EGN (Entsorgungsgesellschaft Niederrhein mbH). In this very short post I'll share with you how to read the "EGN Abfallkalender" (https://www.egn-abfallkalender.de/kalender) programmatically with Python, maybe this is useful for your own Smart Home solution.
+One part within my self-made Smart Home solution is the integration of rubbish collection dates from my local responsible provider: EGN (Entsorgungsgesellschaft Niederrhein mbH). In this very short post I'll share with you how to read the [EGN Abfallkalender](https://www.egn-abfallkalender.de/kalender) programmatically with Python, maybe this is useful for your own Smart Home solution.
 
 # Table of contents
 - [Motivation](#motivation)
@@ -25,8 +25,8 @@ In addition, I receive an e-mail reminder the day before at 7.15 pm in case of o
 So now, the chance to forget to put out the garbage containers is reduced to an absolute minimum :-)
 
 # Source Code
-On GitHub I've uploaded a Jupyter notebook with the basic code to retrieve the "EGN Abfallkalender" (https://www.egn-abfallkalender.de/kalender) programmatically:
+On GitHub I've uploaded a Jupyter notebook with the basic code to retrieve the [EGN Abfallkalender](https://www.egn-abfallkalender.de/kalender) programmatically:
 
-https://github.com/anjakuchenbecker/smarthome-egn-calendar/blob/master/Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb
+[Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb](https://github.com/anjakuchenbecker/smarthome-egn-calendar/blob/master/Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb)
 
 Even this provided code is only a small excerpt from my entire solution for the EGN calendar integration, I hope maybe someone can take advantage of it.
