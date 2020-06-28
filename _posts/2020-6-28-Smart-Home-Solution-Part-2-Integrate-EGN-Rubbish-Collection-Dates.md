@@ -27,6 +27,6 @@ So now, the chance to forget to put out the garbage containers is reduced to an 
 # Source Code
 On GitHub I've uploaded a Jupyter notebook with the basic code to retrieve the [EGN Abfallkalender](https://www.egn-abfallkalender.de/kalender) programmatically:
 
-[Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb](https://github.com/anjakuchenbecker/smarthome-egn-calendar/blob/master/Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb)
+[Read_EGN_Abfallkalender_Programmatically](https://github.com/anjakuchenbecker/smarthome-egn-calendar/blob/master/Read_EGN_Abfallkalender_Programmatically_With_Python.ipynb)
 
 Even this provided code is only a small excerpt from my entire solution for the EGN calendar integration, I hope maybe someone can take advantage of it.
