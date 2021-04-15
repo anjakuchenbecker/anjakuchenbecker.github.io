@@ -11,4 +11,4 @@ In this repo I provide my concepts and some code snippets about our DIY camper v
 
 Besides the Arduino Mega I plan in addition to install a Raspberry PI with a nice touch screen which communicates with the Arduino Mega.
 
-Check out also our [DIY | Selbstausbau Blog & Vlog Camper Renntransporter](https://trackdates.de/howto/renntransporter/)
+Check out also our [DIY Selbstausbau Blog & Vlog Camper Renntransporter](https://trackdates.de/howto/renntransporter/)
