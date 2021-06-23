@@ -49,7 +49,7 @@ The app is separated in two main parts the dashboard and the room surveillance:
 Key Features
 - Embedded front door camera view, you can request a new snapshot or a ten second live video stream
 - Activate specific camera scene and (depending on the scene) also object detection (persons only) with one click.
-- Whenever a person is detected on a picture you will receive an e-mail with attached pictures (person is surrounded with a blue box and percentage probability of the model on each person detected in the image)
+- Whenever a person is detected on a picture you will receive an e-mail with attached pictures (person is surrounded with a red box and percentage probability of the model on each person detected in the image)
 - Based on the selected camera scene also the radiators are switched accordingly in the background
 - Upcoming garbage collection appointments are displayed. You also receive an e-mail reminder the day before.
 
@@ -69,7 +69,8 @@ Key Features
 Key Features
 - Status indicator for each available smart plug
 - Turn smart plugs on or off
-- Set smart plug timer with related action (if supported by smart plug)
+- Set smart plug timer (shortcuts or custom) with related action (self-developed vendor neutral timer capability)
+- Display of current power consumption (if supported by smart plug)
 
 ## Dashboard - Mower
 
@@ -78,9 +79,10 @@ Key Features
 ![_config.yml]({{ site.baseurl }}/images/Screenshot_Smart_Home_Web_App_9.png){:class="img-posts"}
 
 Key Features
-- Embedded mower camera view, you can request a new snapshot or a ten second live video stream
+- Embedded mower camera view, you can request a new snapshot
 - Start or stop mower
-- See details and status history of mower
+- See details and status history of mower or gateway
+- Dedicated hint in case of new firmware version is available
 
 ## Dashboard - Remote Control
 
@@ -123,6 +125,8 @@ Key Features
 - Information about current setting and mode coming from radiator thermostats
 - Set temperature for a specific radiator thermostat
 - Switch to auto, comfort or eco mode for a specific radiator thermostat
+- Automatic info email about low radiator thermostat batteries
+- Warning indicator in case of radiator thermostat reports low batteries
 
 ## Dashboard - SONOS
 
@@ -163,6 +167,7 @@ Please note that I have blackened pictures from my cameras in the following scre
 
 Key Features
 - Embedded views of all cameras (indoor / outdoor)
+- Snapshot refresh by clicking on related image
 
 ## E-mail notifications
 
@@ -185,17 +190,14 @@ Whenever there is at least one upcoming garbage collection appointment on the ne
 - Optimized for different device sizes (Smartphone, Tablets) operating system neutral (iOS or Android)
 
 ## Backend
-- http-API based on Python which integrates the different hardware devices (apache, wsgi, flask)
-- no database overhead, in case of data must be stored simple json files are used
-- Backend services based on Python
-- Backend cron jobs based on Python
+- http-API backend based on Python which integrates the different hardware devices (flask) and functionalty
+- no database overhead, in case of data must be stored simple json files are used as repos
 - Integrated logging
 
 # Hardware
 
 ## Server
-- Raspberry Pi 3 Model B+ with 32GB SD Card
-- Remote server on which the object detection model and person detection backend service (based on Python) is deployed
+- Raspberry Pi 4 Model B with 32GB SD Card (Object detection model for person detection, based on openCV runs directly on the raspi)
 
 ## Integrated Devices
 - WLAN IP Cameras (different vendors e.g. D-Link)
@@ -207,7 +209,7 @@ Whenever there is at least one upcoming garbage collection appointment on the ne
 - Dreambox DM520 Satellite Receiver
 - AppleTV (AppleTV 1, AppleTV 4)
 - ELV Mobile Alerts Gateway with attached temperature and humidity sensors (radio based)
-- Eqiva Bluetooth Smart Radiator Thermostats
+- Equiva Bluetooth Smart Radiator Thermostats
 - Bluetooth Low Energy Beacons
 
 # Conclusion
