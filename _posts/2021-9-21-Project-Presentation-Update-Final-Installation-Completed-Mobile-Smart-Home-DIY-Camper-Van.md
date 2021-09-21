@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Project presentation | Update: Final installation completed |"Mobile Smart Home" for our DIY Camper Van
+title: Project presentation | Update: Final installation completed - "Mobile Smart Home" for our DIY Camper Van
 ---
-
 
 Final installation is completed! 
 
