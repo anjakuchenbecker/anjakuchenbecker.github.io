@@ -9,3 +9,4 @@ Next step is to transform this prototype setup into final units, which can I ins
 ![_config.yml]({{ site.baseurl }}/images/mobile_smart_home_diy_camper_van_overall_prototyping_status.png){:class="img-posts"}
 
 For more details visit my github project: [https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van](https://github.com/anjakuchenbecker/mobile_smart_home_diy_camper_van/).
+ 
