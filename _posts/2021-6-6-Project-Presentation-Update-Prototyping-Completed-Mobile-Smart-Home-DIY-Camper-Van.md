@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project presentation | UPDATE Prototyping completed | "Mobile Smart Home" for our DIY Camper Van
+title: UPDATE | Prototyping completed | "Mobile Smart Home" for our DIY Camper Van
 ---
 
 Prototyping is completed! I've soldered a lot, physically installed all of the electronic components and wrote over 4500 lines of code. 
