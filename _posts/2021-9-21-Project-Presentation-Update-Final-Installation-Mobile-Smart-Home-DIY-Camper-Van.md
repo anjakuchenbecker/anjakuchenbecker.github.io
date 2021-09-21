@@ -3,9 +3,7 @@ layout: post
 title: UPDATE | Final installation completed | "Mobile Smart Home" for our DIY Camper Van
 ---
 
-Final installation is completed! 
-
-I've build the final units (yes, a lot of more soldering and special thanks to our 3D Printer), installed all electronis components and wires (didn't measure the entire wire length, but this step took several weekends for completion) and adapted my code.
+Final installation is completed! I've build the final units (yes, a lot of more soldering and special thanks to our 3D Printer), installed all electronis components and wires (didn't measure the entire wire length, but this step took several weekends for completion) and adapted my code.
 
 Especially, handling the well-known issue with the distance sensors, when there is a lot of sun light. But with a little bit of math and statistics: now it works like a charm ;-)
 
