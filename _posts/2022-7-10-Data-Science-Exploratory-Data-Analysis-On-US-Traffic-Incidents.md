@@ -17,8 +17,8 @@ The results of this notebook can be used as blueprint for approaching explorator
 ## Source Code
 
 The Jupyter notebook itself and the attachments can be found on
-- Kaggle: https://www.kaggle.com/code/anjakuchenbecker/eda-on-us-traffic-incidents/ (recommended due to better rendering as on GitHub)
-- GitHub: https://github.com/anjakuchenbecker/eda_on_traffic_incidents
+- Kaggle: [https://www.kaggle.com/code/anjakuchenbecker/eda-on-us-traffic-incidents/](https://www.kaggle.com/code/anjakuchenbecker/eda-on-us-traffic-incidents/) (recommended due to better rendering as on GitHub)
+- GitHub: [https://github.com/anjakuchenbecker/eda_on_traffic_incidents](https://github.com/anjakuchenbecker/eda_on_traffic_incidents)
 
 
 ## Handout
@@ -26,4 +26,4 @@ In case if you are only interested on the insights and not on the source code an
 
 Please download the handout here: 
 
-https://raw.githubusercontent.com/anjakuchenbecker/eda_on_traffic_incidents/main/EDA_US_Traffic_Incidents_Handout.pdf
+[https://raw.githubusercontent.com/anjakuchenbecker/eda_on_traffic_incidents/main/EDA_US_Traffic_Incidents_Handout.pdf](https://raw.githubusercontent.com/anjakuchenbecker/eda_on_traffic_incidents/main/EDA_US_Traffic_Incidents_Handout.pdf)
